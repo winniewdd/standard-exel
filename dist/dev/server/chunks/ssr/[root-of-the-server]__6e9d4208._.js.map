@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 22, "column": 0}, "map": {"version":3,"sources":["file:///Users/winniewang/Documents/business/standard-exel/app/%28tabs%29/download/page.tsx"],"sourcesContent":["import Box from '@mui/material/Box';\nimport Typography from '@mui/material/Typography';\n\nexport default function DownloadPage() {\n  return (\n    <Box sx={{ maxWidth: 600 }}>\n      <Typography variant=\"h5\" sx={{ mb: 2 }}>\n        Download\n      </Typography>\n      <Typography color=\"text.secondary\">\n        No files available for download.\n      </Typography>\n    </Box>\n  );\n}\n"],"names":[],"mappings":";;;;;AAAA;AACA;;;;AAEe,SAAS;IACtB,qBACE,2RAAC,8MAAG;QAAC,IAAI;YAAE,UAAU;QAAI;;0BACvB,2RAAC,4NAAU;gBAAC,SAAQ;gBAAK,IAAI;oBAAE,IAAI;gBAAE;0BAAG;;;;;;0BAGxC,2RAAC,4NAAU;gBAAC,OAAM;0BAAiB;;;;;;;;;;;;AAKzC"}}]
+}

@@ -1,0 +1,21 @@
+{
+  "hosting": {
+    "public": "dist",
+    "site": "standard-exel",
+    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
+    "rewrites": [
+      {
+        "source": "/upload",
+        "destination": "/upload.html"
+      },
+      {
+        "source": "/download",
+        "destination": "/download.html"
+      },
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}

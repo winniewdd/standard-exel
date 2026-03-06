@@ -1,0 +1,5 @@
+{
+  "/(tabs)/download/page": "app/(tabs)/download/page.js",
+  "/(tabs)/upload/page": "app/(tabs)/upload/page.js",
+  "/page": "app/page.js"
+}
